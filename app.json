@@ -46,7 +46,6 @@
         "origin": false
       },
       "eas": {
-        "projectId": "your-project-id"
       }
     }
   }
